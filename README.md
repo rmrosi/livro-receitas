@@ -1,3 +1,4 @@
-# Licvo de Receitas :man_cook:
+# Livro de Receitas :man_cook:
 
 - Strogonoff de frango
+- Pavê
